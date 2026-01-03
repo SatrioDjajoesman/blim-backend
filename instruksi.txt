@@ -1,0 +1,16 @@
+Before running any commands, u need to make sure that the Python virtual environment is turned on.
+
+Terminal:
+source venv/bin/activate
+
+Running the server:
+python server.py
+
+### Mobile Usage
+To view this on your mobile device:
+
+1. Ensure your phone and computer are on the same Wi-Fi.
+2. Find your computer's IP address (e.g., 192.168.1.X ).
+3. Open http://<YOUR_IP>:5173 on your phone.
+4. The app automatically detects the hostname and connects to the WebSocket server on port 3000.
+
