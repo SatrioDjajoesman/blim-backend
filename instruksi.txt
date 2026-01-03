@@ -17,6 +17,17 @@ pip install -r requirements.txt
 cd frontend
 npm install
 
+5. Go back to project root
+
+cd ..
+
+6. Run the app
+
+./start_app.sh
+
+7. Open localhost in browser: http://localhost:5173/
+
+------------------------
 
 - IMPORTANT -
 
